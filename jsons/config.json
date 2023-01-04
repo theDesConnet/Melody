@@ -1,0 +1,8 @@
+{
+    "token":"token-here",
+    "prefix":".",
+    "owner":"845099620199825438",
+    "db":"mongodb-url-here",
+    "color":"blue",
+    "defaultap":"true"
+}

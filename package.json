@@ -1,0 +1,25 @@
+{
+  "name": "melody_nightly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DesConnet",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@weky/inlinereply": "0.0.0",
+    "alexa-bot-api": "^2.0.5",
+    "cleverbot-free": "^1.1.6",
+    "discord-buttons": "^4.0.0",
+    "discord-together": "^1.1.14",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.15",
+    "mongoose": "^5.12.13",
+    "slash-commands": "^1.4.0",
+    "weky": "^3.1.0",
+    "ytdl-core": "^4.9.1"
+  }
+}
